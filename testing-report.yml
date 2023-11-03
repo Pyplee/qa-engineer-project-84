@@ -26,3 +26,11 @@
   - summary: |
     Проверка карточки товара.
   status: fail
+
+  - summary: |
+    Проверка адаптивности сайта.
+  status: fail
+
+  - summary: |
+    Проверка скорости загрузки сайта.
+  status: fail
