@@ -2,7 +2,7 @@
 - summary: |
     Не отображается иконка английского языка в выпадающем списке смены языка.
   environment: |
-    Mozilla Firefox 119.0-1 ОС: Kernel: 6.1.55-1-MANJARO GNOME v: 44.5.
+    Mozilla Firefox 119.0-1 ОС: Kernel: 6.1.55-1-MANJARO GNOME v: 44.5. Website v1.
   steps-to-reproduce:
     1. Зайти на главную страницу.
     2. Нажать на гиперссылку Language/Язык.
@@ -14,7 +14,7 @@
 - summary: |
     Некорректно отображаются чекбоксы фильтров по производителей.
   environment: |
-    Mozilla Firefox 119.0-1 ОС: Kernel: 6.1.55-1-MANJARO GNOME v: 44.5.
+    Mozilla Firefox 119.0-1 ОС: Kernel: 6.1.55-1-MANJARO GNOME v: 44.5. Website v1.
   steps-to-reproduce:
     1. Зайти на главную страницу.
   expected-result: |
@@ -25,7 +25,7 @@
 - summary: |
     Некорректно отображается пустая страница без списка товаров.
   environment: |
-    Mozilla Firefox 119.0-1 ОС: Kernel: 6.1.55-1-MANJARO GNOME v: 44.5.
+    Mozilla Firefox 119.0-1 ОС: Kernel: 6.1.55-1-MANJARO GNOME v: 44.5. Website v1.
   steps-to-reproduce:
     1. Зайти на главную страницу сайта.
     2. Найти/перелистать страницу где нет товаров.
@@ -38,7 +38,7 @@
 - summary: |
     Долгая загрузка страницы.
   environment: |
-    Mozilla Firefox 119.0-1 ОС: Kernel: 6.1.55-1-MANJARO GNOME v: 44.5.
+    Mozilla Firefox 119.0-1 ОС: Kernel: 6.1.55-1-MANJARO GNOME v: 44.5. Website v1.
   steps-to-reproduce:
     1. Открыть сайт по ссылке или перезагрузить.
   expected-result: |
@@ -49,7 +49,7 @@
 - summary: |
     Неправильная работа фильтра по цене.
   environment: |
-    Mozilla Firefox 119.0-1 ОС: Kernel: 6.1.55-1-MANJARO GNOME v: 44.5.
+    Mozilla Firefox 119.0-1 ОС: Kernel: 6.1.55-1-MANJARO GNOME v: 44.5. Website v1.
   steps-to-reproduce:
     1. Зайти на главную страницу.
     2. Выбрать товар, к примеру MacBook Pro
@@ -63,7 +63,7 @@
 - summary: |
     Кривое отображение количества товаров в корзине.
   environment: |
-    Mozilla Firefox 119.0-1 ОС: Kernel: 6.1.55-1-MANJARO GNOME v: 44.5.
+    Mozilla Firefox 119.0-1 ОС: Kernel: 6.1.55-1-MANJARO GNOME v: 44.5. Website v1.
   steps-to-reproduce:
     1. Зайти на главную страницу сайта.
     2. Добавить пару товаров в корзину.
@@ -76,7 +76,7 @@
 - summary: |
     Корректная работа и отображение карточки товара.
   environment: |
-    Mozilla Firefox 119.0-1 ОС: Kernel: 6.1.55-1-MANJARO GNOME v: 44.5.
+    Mozilla Firefox 119.0-1 ОС: Kernel: 6.1.55-1-MANJARO GNOME v: 44.5. Website v1.
   steps-to-reproduce:
     1. Зайти на главную страницу сайта.
     2. Перейти в карточку товара нажатием на него.
@@ -91,7 +91,7 @@
 - summary: |
     Корректное отображение содержимого всего сайта.
   environment: |
-    Mozilla Firefox 119.0-1 ОС: Kernel: 6.1.55-1-MANJARO GNOME v: 44.5.
+    Mozilla Firefox 119.0-1 ОС: Kernel: 6.1.55-1-MANJARO GNOME v: 44.5. Website v1.
   steps-to-reproduce:
     1. Зайти на главную страницу сайта.
   expected-result: |
