@@ -34,7 +34,7 @@ test-cases:
 
   - summary: |
       Успешная скорость загрузки сайта.
-  status: pass
+    status: pass
 
 bugreports:
   - summary: |
