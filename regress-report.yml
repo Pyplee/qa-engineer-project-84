@@ -24,16 +24,16 @@ test-cases:
       Успешная работоспособность корзины.
     status: pass
 
-    - summary: |
+  - summary: |
       Успешная работа карточки товара.
     status: pass
 
-   - summary: |
+  - summary: |
       Успешная работа адаптивности сайта.
     status: fail
 
   - summary: |
-    Успешная скорость загрузки сайта.
+      Успешная скорость загрузки сайта.
   status: pass
 
 bugreports:
